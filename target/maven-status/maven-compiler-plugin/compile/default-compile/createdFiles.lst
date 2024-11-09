@@ -1,0 +1,6 @@
+com\example\useraccess\SoftwareServlet.class
+com\example\useraccess\RequestServlet.class
+com\example\useraccess\DatabaseConnection.class
+com\example\useraccess\LoginServlet.class
+com\example\useraccess\SignUpServlet.class
+com\example\useraccess\ApprovalServlet.class
